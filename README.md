@@ -15,16 +15,16 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="center">A passionate deep learning practioner from India</h3>
 <br>
-<h1 align="center">Tools and Technologies</h1>
+<h1 align="center">Technologies</h1>
 <br>
 <p align="center">
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> &nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.svg" alt="grpc" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a> &nbsp;&nbsp; <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="git" width="60" height="60"/></a>
 </p>
 <br>
 <br>
-<p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamvlmna&show_icons=true&locale=en&layout=compact" alt="shyamvlmna"  width="50%" /></p>
+<p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=azadranjith&show_icons=true&locale=en&layout=compact" alt="shyamvlmna"  width="50%" /></p>
 <br>
-<!--     <a href="https://github.com/shyamvlmna"> -->
-<p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shyamvlmna&show_icons=true&hide_border=true"/></p>
+
+<p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=azadranjith&show_icons=true&hide_border=true"/></p>
 <br>
-<p align="center"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamvlmna&hide_border=true" /></a></p>
+<p align="center"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=azadranjith&hide_border=true" /></a></p>
