@@ -9,11 +9,11 @@ azadranjith/azadranjith is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Ranjith T</h1>
-<!-- <h3 align="center">A passionate deep learning practioner from India</h3><br> -->
+
 <p align="center">
-   <span><a href="https://www.linkedin.com/in/ranjith-t-506201238" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:shyamvlmna@gmail.com?subject=Hello, Shyamjith" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;<a href="https://instagram.com/shyam_vlmna" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;&nbsp;<a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a></span>
+   <span><a href="https://www.linkedin.com/in/ranjith-t-506201238" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:azadranjith@gmail.com?subject=Hello, Ranjith" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a></span>
 </p>
-<h3 align="center">Currently mastering the Go programming language</h3>
+<h3 align="center">A passionate deep learning practioner from India</h3>
 <br>
 <h1 align="center">Tools and Technologies</h1>
 <br>
