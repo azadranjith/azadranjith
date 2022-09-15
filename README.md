@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="center">A passionate deep learning practioner from India</h3>
 <br>
-<h3 align="center">💞️ I’m looking to collaborate on deeplearning projects </h3>
+<h3 align="center"> I’m looking to collaborate on deeplearning projects </h3>
 <h1 align="center">Technologies</h1>
 <br>
 <p align="center">
