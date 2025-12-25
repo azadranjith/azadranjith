@@ -17,8 +17,3 @@ You can click the Preview link to take a look at your changes.
    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/1200/1*bBS_lYMoWhiyJf733Bghwg.jpeg" alt="linux" width="60" height="60"/> &nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="go" width="60" height="60"/></a> &nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
 </p>
 <br>
-<br>
-<br>
-
-<p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=azadranjith&show_icons=true&hide_border=true"/></p>
-<br>
