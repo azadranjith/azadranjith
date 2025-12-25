@@ -18,9 +18,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 <br>
-<p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=azadranjith&show_icons=true&locale=en&layout=compact" alt="shyamvlmna"  width="50%" /></p>
+" alt="shyamvlmna"  width="50%" /></p>
 <br>
 
 <p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=azadranjith&show_icons=true&hide_border=true"/></p>
 <br>
-<p align="center"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=azadranjith&hide_border=true" /></a></p>
