@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 <br>
-" alt="shyamvlmna"  width="50%" /></p>
 <br>
 
 <p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=azadranjith&show_icons=true&hide_border=true"/></p>
